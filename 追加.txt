@@ -9,3 +9,5 @@ hi boy
 
 hi gril
 >>>>>>> player_club_attack
+
+hi mother
